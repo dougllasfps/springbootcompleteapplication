@@ -1,0 +1,1 @@
+INSERT INTO convidado (nome, email, telefone) values ('dougllas', 'teste@teste.com','9999999');
